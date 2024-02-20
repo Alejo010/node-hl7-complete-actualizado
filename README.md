@@ -24,7 +24,7 @@ Keep in mind that for the development of this library, it may be necessary to ha
 
 
 ##Usage example
-
+```
 const NodeHL7Complete = require('./index');
 
 // Create an instance of the module
@@ -49,7 +49,7 @@ hl7Converter.hl7ToJs(hl7Message, (error, jsObject) => {
      console.log('JSON object returned:', JSON.stringify(jsObject, null, 2));
    }
 });
- 
+ ```
 ```
 
 ... these two `console.log`s yield the following:
