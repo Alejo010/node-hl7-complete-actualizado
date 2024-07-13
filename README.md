@@ -15,6 +15,10 @@ When this project started, many folks were using Java 8. Unfortunately, the Java
 
 In addition, version 3.1.0 and above of this project expects your Node version to be greater than 12. Check out [Node Version Manager](https://github.com/nvm-sh/nvm) to manage versions.
 
+## Installation and use
+For this project to work, you only need to have a node version equal to or greater than 20.11.0 and JDK 1.8 for 64 bits.
+It is recommended to use Java_Development_Kit_(64bit)_v8 Update 391, installed in the path C:\Program Files\Java, if necessary configure your environment variables.
+
 ## update 2024
 ## Use and compatibility update 2024
 

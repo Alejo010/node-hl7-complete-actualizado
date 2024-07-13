@@ -1,6 +1,6 @@
 {
-  "name": "node-hl7-complete",
-  "version": "3.2.0",
+  "name": "node-hl7-24",
+  "version": "1.0.0",
   "keywords": [],
   "description": "Node module that is bridged with the Java Hapi HL7 library",
   "main": "index.js",
